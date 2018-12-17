@@ -70,10 +70,6 @@ class Idlegal:
         else:
             self.msg = "身份证长度不合法"
 
-id="61242519930605555X"
-t=Idlegal(id)
-t.check()
-print(t.msg)
 
 
 
