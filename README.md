@@ -15,6 +15,6 @@
 
 # 身份证校验位校验算法
  * 身份证号码中各个位置上的号码字符值应满足下列公式的校验：
- ![公式](https://github.com/xwtester/IDLegal/raw/master/img/check_code.png)
+ ![公式](https://github.com/purviszhang/IDLegal/raw/master/img/check_code.png)
 
 
